@@ -1,0 +1,37 @@
+[
+{
+  "directory": "D:/AndroidPro/rtmps/librtmp/.cxx/Debug/d3z4it6d/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi22 --gcc-toolchain=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmeitrack_rtmp_EXPORTS -ID:/AndroidPro/rtmps/librtmp/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -fno-limit-debug-info  -fPIC   -o CMakeFiles\\meitrack_rtmp.dir\\CallJava.cpp.o -c D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\CallJava.cpp",
+  "file": "D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\CallJava.cpp"
+},
+
+{
+  "directory": "D:/AndroidPro/rtmps/librtmp/.cxx/Debug/d3z4it6d/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi22 --gcc-toolchain=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmeitrack_rtmp_EXPORTS -ID:/AndroidPro/rtmps/librtmp/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -fno-limit-debug-info  -fPIC   -o CMakeFiles\\meitrack_rtmp.dir\\publish_jni.cpp.o -c D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\publish_jni.cpp",
+  "file": "D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\publish_jni.cpp"
+},
+
+{
+  "directory": "D:/AndroidPro/rtmps/librtmp/.cxx/Debug/d3z4it6d/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi22 --gcc-toolchain=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmeitrack_rtmp_EXPORTS -ID:/AndroidPro/rtmps/librtmp/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -fno-limit-debug-info  -fPIC   -o CMakeFiles\\meitrack_rtmp.dir\\push.cpp.o -c D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\push.cpp",
+  "file": "D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\push.cpp"
+},
+
+{
+  "directory": "D:/AndroidPro/rtmps/librtmp/.cxx/Debug/d3z4it6d/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi22 --gcc-toolchain=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmeitrack_rtmp_EXPORTS -ID:/AndroidPro/rtmps/librtmp/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -fno-limit-debug-info  -fPIC   -o CMakeFiles\\meitrack_rtmp.dir\\Queue.cpp.o -c D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\Queue.cpp",
+  "file": "D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\Queue.cpp"
+},
+
+{
+  "directory": "D:/AndroidPro/rtmps/librtmp/.cxx/Debug/d3z4it6d/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi22 --gcc-toolchain=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmeitrack_rtmp_EXPORTS -ID:/AndroidPro/rtmps/librtmp/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -fno-limit-debug-info  -fPIC   -o CMakeFiles\\meitrack_rtmp.dir\\Rtmp.cpp.o -c D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\Rtmp.cpp",
+  "file": "D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\Rtmp.cpp"
+},
+
+{
+  "directory": "D:/AndroidPro/rtmps/librtmp/.cxx/Debug/d3z4it6d/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi22 --gcc-toolchain=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmeitrack_rtmp_EXPORTS -ID:/AndroidPro/rtmps/librtmp/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -fno-limit-debug-info  -fPIC   -o CMakeFiles\\meitrack_rtmp.dir\\RtmpPush.cpp.o -c D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\RtmpPush.cpp",
+  "file": "D:\\AndroidPro\\rtmps\\librtmp\\src\\main\\cpp\\RtmpPush.cpp"
+}
+]
