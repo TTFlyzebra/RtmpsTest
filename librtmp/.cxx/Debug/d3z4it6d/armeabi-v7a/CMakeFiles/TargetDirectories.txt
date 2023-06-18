@@ -1,3 +1,0 @@
-D:/AndroidPro/rtmps/librtmp/.cxx/Debug/d3z4it6d/armeabi-v7a/CMakeFiles/meitrack_rtmp.dir
-D:/AndroidPro/rtmps/librtmp/.cxx/Debug/d3z4it6d/armeabi-v7a/CMakeFiles/edit_cache.dir
-D:/AndroidPro/rtmps/librtmp/.cxx/Debug/d3z4it6d/armeabi-v7a/CMakeFiles/rebuild_cache.dir

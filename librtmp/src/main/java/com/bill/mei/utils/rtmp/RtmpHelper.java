@@ -10,7 +10,7 @@ package com.bill.mei.utils.rtmp;
 public class RtmpHelper {
 
     static {
-        System.loadLibrary("meitrack_rtmp");
+        System.loadLibrary("meitrack_rtmps");
     }
 
     public native long init(String url_, int w, int h,  int timeOut);
